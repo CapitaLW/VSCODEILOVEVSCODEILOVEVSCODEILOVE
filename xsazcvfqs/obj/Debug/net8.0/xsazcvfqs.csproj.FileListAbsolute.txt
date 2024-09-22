@@ -12,3 +12,4 @@ C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\
 C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\xsazcvfqs.pdb
 C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\xsazcvfqs.genruntimeconfig.cache
 C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\ref\xsazcvfqs.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\xsazcvfqs.sourcelink.json

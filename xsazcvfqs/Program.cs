@@ -1,4 +1,6 @@
 ﻿Console.Clear();
-Console.WriteLine("Balls");
+string B = "Balls";
+
+Console.WriteLine(B);
 
 Console.ReadKey();
