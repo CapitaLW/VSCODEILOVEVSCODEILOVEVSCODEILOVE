@@ -1,0 +1,14 @@
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\bin\Debug\net8.0\xsazcvfqs.exe
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\bin\Debug\net8.0\xsazcvfqs.deps.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\bin\Debug\net8.0\xsazcvfqs.runtimeconfig.json
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\bin\Debug\net8.0\xsazcvfqs.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\bin\Debug\net8.0\xsazcvfqs.pdb
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\xsazcvfqs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\xsazcvfqs.AssemblyInfoInputs.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\xsazcvfqs.AssemblyInfo.cs
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\xsazcvfqs.csproj.CoreCompileInputs.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\xsazcvfqs.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\refint\xsazcvfqs.dll
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\xsazcvfqs.pdb
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\xsazcvfqs.genruntimeconfig.cache
+C:\Users\DRAXJ\OneDrive\Desktop\VSCODEILOVEVSCODEILOVEVSCODEILOVE\xsazcvfqs\obj\Debug\net8.0\ref\xsazcvfqs.dll
